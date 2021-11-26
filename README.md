@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hieu3210
+- 👀 I’m interested in web design and develop.
+- 🌱 I’m currently learning the most modern technique to create smart system.
+- 💞️ I’m looking to collaborate on web dev, building management systems.
+- 📫 Reach me via email hieu3210@gmail.com or tel (+84) 0972782203.
