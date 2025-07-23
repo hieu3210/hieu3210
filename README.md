@@ -1,5 +1,5 @@
-👋 Hi there! I’m @hieu3210.
-👀 Passionate about modern web design and web development.
-🌱 Currently exploring cutting-edge technologies to build intelligent management systems.
-🤝 Always open to collaborating on web development projects and smart system solutions.
-📫 Feel free to contact me at hieu3210@gmail.com or (+84) 0972 782 203
+- 👋 Hi there! I’m @hieu3210.
+- 👀 Passionate about modern web design and web development.
+- 🌱 Currently exploring cutting-edge technologies to build intelligent management systems.
+- 🤝 Always open to collaborating on web development projects and smart system solutions.
+- 📫 Feel free to contact me at hieu3210@gmail.com or (+84) 0972 782 203
